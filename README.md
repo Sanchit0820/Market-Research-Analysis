@@ -8,20 +8,21 @@ This report-cum-dashboard helps the company understand their customers better. I
 
 Thus arises the need to answer the following key questions for our analysis:
 
-How are our 6 recent marketing campaigns performing?
-How are our products performing?
-Who are our customers?
-What is driving campaign performance and buyer-decision making?
+* How are our 6 recent marketing campaigns performing?
+* How are our products performing?
+* Who are our customers?
+* What is driving campaign performance and buyer-decision making?
 
 
-Steps followed
+# Steps followed
 
-#Reviewing our Data
+### #Reviewing our Data
 
 Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-#Transforming our Data
+
+### #Transforming our Data
 
 Step 1 : Understand column names and meanings, using the marketing data dictionary for reference.
 Step 2 : Identified and clarified unclear column names such as 'accepted CMP', 'num catalog purchases', and 'nt wines
@@ -31,7 +32,7 @@ Step 5 : Renamed columns for clarity, e.g., changing 'nt wines' to 'amount wine 
 Step 6 : Set 'income' as a fixed decimal number for currency representation, ensuring correct data type handling in Power BI.
 Step 7: Completed initial data transformations, ensuring cleaned and accurate data for effective data visualization and reporting.
 
-#Evaluating Campaign Performance
+### #Evaluating Campaign Performance
 
 Step 1 : Rename and reference the marketing dataset to isolate campaign-related columns. Unpivot campaign acceptance indicators into a single column for clarity.
 Step 2 : Generate a bar chart displaying campaign acceptance rates. Ensure each campaign is clearly labeled on the X-axis with corresponding acceptance totals on the Y-axis.
@@ -44,7 +45,7 @@ Step 8 : Created a stacked 100% bar chart to analyze the sales composition of ea
 Step 9 : Utilized Power Query to pivot columns and create a platform table, showcasing purchase distribution across campaigns through catalogs, web, and in-store.
 Step 10 : Developed another visual to display total purchases across different platforms, providing insights into customer preferences and purchase behaviors influenced by campaign efforts.
 
-#Evaluating Buyer Composition
+### #Evaluating Buyer Composition
 
 Step 1 : Understand customer demographics deeply relevant to campaign and product performance.
 Step 2 : Avoid superficial demographics like average age or gender breakdowns; focus on how demographic attributes influence purchasing behaviors.
@@ -54,7 +55,7 @@ Step 5 : Employ bar charts to visualize campaign acceptance filtered by demograp
 Step 6 : Utilize a stacked 100% bar chart to analyze purchasing habits by age groups. Enhance readability by grouping ages into bins (e.g., 5-year intervals) directly within the visual settings.
 Step 7 : Avoid cluttering with excessive visuals; prioritize aesthetics and user comprehension. Utilize card visuals to succinctly display key metrics like user count, average income, average age, and platform preferences (e.g., deals, store, catalog, website visits).
 
-#Uncovering Purchase drivers
+### #Uncovering Purchase drivers
 
 Step 1 : The Key Influencers Visual was selected for its ability to identify and interpret influential factors within customer data.
 
