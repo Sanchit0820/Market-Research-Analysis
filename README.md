@@ -92,3 +92,8 @@ Step 5 : A product slicer was introduced to enhance user interaction and deepen 
 
 Step 6 : The visual layout was refined to ensure clarity and usability. Side-by-side Key Influencers Visuals alongside the product slicer were presented to make complex data more accessible. Additionally, data storytelling techniques were incorporated to highlight key findings and actionable insights.
 
+
+# Findings
+
+### Campaign Performance
+![1- campaign performance](
