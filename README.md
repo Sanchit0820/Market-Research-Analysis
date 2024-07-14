@@ -2,7 +2,8 @@
 
 Report Link : https://app.powerbi.com/groups/me/reports/612cd342-b7a4-4fea-bae9-e6cf4cf883b1?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare
 
-Problem Statement
+######Problem Statement
+
 This report-cum-dashboard helps the company understand their customers better. It helps MarketMindz know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It lets them know about their different campaigns' performances, buyer composition (who their customers are and what are their spending habits) and the different purchase drivers associated with what enhances or brings down performance in a particular campaign.
 
 Thus arises the need to answer the following key questions for our analysis:
