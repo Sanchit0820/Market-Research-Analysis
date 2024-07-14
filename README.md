@@ -96,4 +96,5 @@ Step 6 : The visual layout was refined to ensure clarity and usability. Side-by-
 # Findings
 
 ### Campaign Performance
-![1- campaign performance](
+![pbi1](https://github.com/user-attachments/assets/14c481d4-ce2f-4f9d-b25e-3d18bf3d4436)
+
