@@ -98,3 +98,80 @@ Step 6 : The visual layout was refined to ensure clarity and usability. Side-by-
 ### Campaign Performance
 ![campaign performance](https://github.com/user-attachments/assets/cfa9e5b1-f48c-4c01-942b-883a3d2839b8)
 
+1. Wine is the top-performing product in terms of both revenue ($681K) and number of purchases across all campaigns. Possible reasons for this could be high demand and popularity of wine as well as effective marketing strategies targeted towards wine. Also, wine generally has a higher price point compared to other categories, contributing to higher revenue.
+
+2. Campaign 6 is the most successful in terms of both purchases (334) and revenue ($0.33M). This could be because Campaign 6 might have been launched during a peak buying period, such as holidays or special events. Another reason could be the introduction of attractive offers and discounts that resonated well with customers as well as effective targeting of the right audience segments.
+
+3. In-store is the most preferred purchasing platform across all campaigns (13K). This could be primarily be due to customer experience where customers might prefer the tactile experience of shopping in-store. In-store purchases also allow customers to immediate gratification by providing their products on the spot. Some customers may also feel more secure purchasing in-store as compared to online.
+
+4. Web (9.2K) and Catalog (6.0K) Purchases also contribute significantly. Web and catalog shopping offer convenience, especially for those who may not have easy access to physical stores. Wide reach can also be an example where online and catalog channels can reach a broader audience, including those in remote areas. Changes in shopping behaviour due to the pandemic may also have increased reliance on web and catalog shopping.
+
+### Buyer Composition 
+![buyer composition](https://github.com/user-attachments/assets/e6d5c29e-8825-4364-a50b-4b76b151cd0c)
+
+1. The average age of our customers comes out to be approximately 55 years. This could be because the customer base might be skewed towards older adults due to product type or marketing strategies that appeal more to this demographic. Since wine was the highest selling product, it makes sense that middle aged people dabble more in wine as they grow older and their income rises.
+
+2.  Education Level - The majority of customers have a college/university degree (Graduation: 1,127). One possible explanation could be because of higher education Levels, customers might be more informed and selective, preferring quality and value for money.
+
+3. Marital Status - A larger chunk of our customers is married. This could be because marketing strategies or product offerings might appeal more to married individuals or families.
+
+4. Household Composition - Kids at Home: 58% have no kids, 40% have 1 kid, 2% have 2 kids.
+
+                           Teens at Home: 52% have no teens, 46% have 1 teen, 2% have 2 teens.
+
+Possible Reasons:
+
+Few Kids and Teens at Home: Indicates a trend towards smaller household sizes or older families with grown children.
+
+### Purchase Drivers
+![purchase drivers](https://github.com/user-attachments/assets/2825cd77-965d-40e0-83ed-f8082407cb4e)
+
+1. This is a Key Insights dashboard that helps to find a determinant for success of each campaign or what factors influence income or total web visits, for example, to increase. It also helps in forecasting the same based on the present available data to understand what will work best in the future to further optimize our understanding of our market.
+
+2. For example, in the measure set above, we can see when Campaign 6 is selected or the likelihood of accepted campaign being campaign 6 increases when income is $44,051 or less (1.93x), number of Kids at home is 1, web visits is more than 6 and marital status is single.
+
+
+### Recommendations 
+
+1. Targeted Marketing Campaigns:
+   
+* Demographic Focus: Given that the average customer age is 55.2 and many customers are married, create marketing campaigns that appeal to older adults and families. Highlight products that cater to their needs and preferences, such as health-focused items, convenience products, and family-sized packages.
+  
+* Income-Specific Offers: Tailor offers and promotions based on the income levels identified in the reports. For lower-income segments, emphasize affordability and value. For higher-income segments, focus on premium products and exclusive deals.
+  
+2. Enhanced Online Engagement:
+   
+* Web Activity Utilization: Leverage the insight that higher web activity correlates with campaign acceptance. Enhance the online shopping experience by improving website usability, offering personalized recommendations, and using targeted online ads and email campaigns to drive engagement and conversions.
+  
+* Frequent Web Visitor Retention: Implement strategies to retain and engage frequent web visitors. Consider loyalty programs, regular newsletters, and exclusive online offers to encourage repeat visits and larger purchases.
+  
+3. Product and Service Diversification:
+   
+* Age-Based Preferences: Recognize the distinct preferences of different age groups. For younger customers, promote meat and other fresh products. For older customers, emphasize wine and gourmet items. Tailor product recommendations and promotions to these preferences to boost sales.
+  
+* Household Composition Consideration: Offer products and promotions tailored to the household composition. For families with kids or teens, consider family-sized packages and child-friendly products. For single or child-free households, emphasize convenience and luxury items.
+  
+4. Channel-Specific Strategies:
+   
+* In-Store Dominance: Given the high number of in-store purchases, enhance the in-store shopping experience. Offer in-store exclusive promotions, loyalty programs, and personalized service to encourage repeat visits and higher spending.
+  
+* Multi-Channel Integration: Ensure a seamless omnichannel experience. Integrate online and offline channels to allow customers to easily switch between them. Use data from online interactions to inform in-store promotions and vice versa.
+  
+5. Campaign Design and Evaluation:
+   
+* Campaign-Specific Insights: Use the insights from successful campaigns (e.g., Campaign 6) to design future campaigns. Focus on the factors that increased acceptance, such as targeting lower-income segments, promoting through high web activity channels, and appealing to single customers.
+  
+* Continuous Improvement: Regularly evaluate the performance of each campaign. Use data analytics to understand what works and what doesn’t. Adjust future campaigns based on these insights to continuously improve effectiveness.
+  
+6. Personalized Customer Engagement:
+    
+* Personalization: Use customer data to offer personalized recommendations and promotions. Tailor marketing messages to individual preferences and purchasing behaviors to increase engagement and loyalty.
+  
+* Customer Feedback: Collect and analyze customer feedback to understand their needs and preferences better. Use this information to refine product offerings and marketing strategies.
+  
+7. Promotional and Discount Strategies:
+   
+* Discount Purchases: Given the significant number of discount purchases, strategically use discounts to attract price-sensitive customers without eroding overall profitability. Consider time-limited offers, bundle deals, and loyalty discounts.
+  
+* Seasonal and Event-Based Promotions: Plan promotions around key seasons and events that resonate with your target demographics. For example, offer special deals during holidays, family-focused events, and health awareness months to drive sales.
+
